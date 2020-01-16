@@ -19,7 +19,12 @@ Approximate and exact controllability of linear difference equations.
 J. Éc. polytech. Math., 7:93–142, 2020.
 
 TODO:
-  
+  - Take into account rational dependece structure of the delays
+  - Implement approximate and exact controllability tests in dimension 2 with 
+    2 delays
+  - Implement stability tests (Hale--Silkowski to begin with)
+  - Implement time-dependent stability tests
+  - Implement results for generic systems under a given structure
 """
 
 import numpy as np
